@@ -15,7 +15,17 @@ então havia a tela bonitinha, mas 0 funcionalidade nela.
 
 ## Preview
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/56199149/181867061-89a4d5d4-6f2b-4543-846b-c8f4422eca05.PNG"/>
+</div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/56199149/181867063-5579bfa3-7eec-43c1-ad6e-d45cbc92c27c.PNG"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/56199149/181867064-70a2e221-9142-428a-829c-1b009ba15471.PNG"/>
+</div>
 
 ## Feedback
 
